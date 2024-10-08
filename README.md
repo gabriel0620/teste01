@@ -1,6 +1,7 @@
-# Site desenvolvido por:
-## Gabriel da rosa meira:
-### Primeira aula de programação HTML e CSS
+# Site desenvolvido por: :alien:
+## Gabriel da Rosa Meira: :innocent:
+### Primeira aula de programação HTML e CSS :kissing:
 ** áreas afins: **
-###
-
+### Ed.Fisica, Fisica, Quimica, Matematica, Projeto de vida :wink:
+### Jogar bola, Jogar volei, Correr :running:   :smiley:
+### 
